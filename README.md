@@ -1,2 +1,2 @@
-# Ex2-part-2--CPP
-Ex2-part-2--CPP
+# CPP-Board
+The second part of the second task in CPP course
